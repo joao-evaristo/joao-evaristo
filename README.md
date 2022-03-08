@@ -3,7 +3,6 @@
 - 🤖 Currently i work developing bots for automation with Python (my favorite language)
 - 📫 Studying develop of web applications with JS and Frameworks
 - 💻 I have some knowledge in C, Java and Assembly 
-- - 
 <!--
 **joao-evaristo/joao-evaristo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
